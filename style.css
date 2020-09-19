@@ -1,0 +1,29 @@
+b {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+}
+
+i {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.table {
+    background-color: lightcyan;
+    font-size: 24px;
+    font-style: italic;
+    border: 1px solid gray;
+}
+
+th {
+    border: 1px solid gray  
+}
+
+td {
+    border: 1px solid gray  
+}
